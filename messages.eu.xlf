@@ -407,7 +407,7 @@
       </trans-unit>
       <trans-unit id="ZLhutDM" resname="Send to AI">
         <source>Send to AI</source>
-        <target>~Bidali AI-ra</target>
+        <target>Bidali AAra</target>
       </trans-unit>
       <trans-unit id="bOxwr9C" resname="Specialty">
         <source>Specialty</source>
@@ -819,7 +819,7 @@
       </trans-unit>
       <trans-unit id="HAl2U3v" resname="There is no query to send to the assistant.">
         <source>There is no query to send to the assistant.</source>
-        <target>~Ez dago laguntzaileari biditzeko galderarik.</target>
+        <target>Ez dago laguntzaileari biditzeko galderarik.</target>
       </trans-unit>
       <trans-unit id="jLcojpH" resname="Generating questions. Please wait...">
         <source>Generating questions. Please wait...</source>
@@ -903,15 +903,15 @@
       </trans-unit>
       <trans-unit id="wmZAGDi" resname="EdiCuaTeX - LaTeX Equation Editor">
         <source>EdiCuaTeX - LaTeX Equation Editor</source>
-        <target>~EdiCuaTeX - LaTeX Equazioa Editorea</target>
+        <target>EdiCuaTeX - LaTeX EKuazioa Editorea</target>
       </trans-unit>
       <trans-unit id="3xt7SvG" resname="Educational Applications Laboratory">
         <source>Educational Applications Laboratory</source>
-        <target>~Hezkuntza Aplikazio Laborategia</target>
+        <target>Hezkuntza aplikazioen laborategia</target>
       </trans-unit>
       <trans-unit id="oTIGqj3" resname="Application created by Juan José de Haro">
         <source>Application created by Juan José de Haro</source>
-        <target>~Juan José de Haro-k sortutako aplikazioa</target>
+        <target>Juan José de Haro-k sortutako aplikazioa</target>
       </trans-unit>
       <trans-unit id="BSDT0ZB" resname="Could not get code from parent dialog:">
         <source>Could not get code from parent dialog:</source>
@@ -919,19 +919,19 @@
       </trans-unit>
       <trans-unit id="7WKfC9x" resname="Recent">
         <source>Recent</source>
-        <target>~Azkena</target>
+        <target>Azkena</target>
       </trans-unit>
       <trans-unit id="vMqqN1e" resname="Error loading menu">
         <source>Error loading menu</source>
-        <target>~Errorea menuak kargatzean</target>
+        <target>Errorea menua kargatzean</target>
       </trans-unit>
       <trans-unit id="24mHwai" resname="Could not load">
         <source>Could not load</source>
-        <target>~Ezin izan da kargatu</target>
+        <target>Ezin izan da kargatu</target>
       </trans-unit>
       <trans-unit id="GdRFNpn" resname="No menus found.">
         <source>No menus found.</source>
-        <target>~Ez da menuik aurkitu.</target>
+        <target>Ez da menurik aurkitu.</target>
       </trans-unit>
       <trans-unit id=".jhcwBR" resname="File">
         <source>File</source>
@@ -939,27 +939,27 @@
       </trans-unit>
       <trans-unit id="uKMbnxc" resname="Please describe the formula you need.">
         <source>Please describe the formula you need.</source>
-        <target>~Mesedez, deskribatu behar duzun formula.</target>
+        <target>Mesedez, deskribatu behar duzun formula.</target>
       </trans-unit>
       <trans-unit id="qe79.N0" resname="Instruction generated. You can now use the buttons.">
         <source>Instruction generated. You can now use the buttons.</source>
-        <target>~Irakaskuntza sortu da. Orain botoiak erabil ditzakezu.</target>
+        <target>Jarraibideak sortu dira. Orain botoiak erabil ditzakezu.</target>
       </trans-unit>
       <trans-unit id="yISxAqv" resname="Instruction copied to clipboard!">
         <source>Instruction copied to clipboard!</source>
-        <target>~Irakaskuntza arbeletik kopiatu da!</target>
+        <target>Jarraibideak arbelean kopiatu dira!</target>
       </trans-unit>
       <trans-unit id="GyXTAnB" resname="Syntax error">
         <source>Syntax error</source>
-        <target>~Sintaxi errorea</target>
+        <target>Sintaxi errorea</target>
       </trans-unit>
       <trans-unit id="QriYn5V" resname="No formula to capture.">
         <source>No formula to capture.</source>
-        <target>~Ez dago formula bat harrapatzeko.</target>
+        <target>Ez dago formularik harrapatzeko.</target>
       </trans-unit>
       <trans-unit id="UDuhSdh" resname="Understood">
         <source>Understood</source>
-        <target>~Ulertuta</target>
+        <target>Ulertuta</target>
       </trans-unit>
       <trans-unit id="deMwCrv" resname="Right-click on the image to save or copy it.">
         <source>Right-click on the image to save or copy it.</source>
